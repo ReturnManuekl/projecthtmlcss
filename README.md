@@ -1,6 +1,6 @@
 # Studio ovum
 
-> This web offers music servise.
+> This web offers music service.
 
 ![Screenshot](https://raw.githubusercontent.com/ReturnManuekl/projecthtmlcss/54a1a707602203dee2c76b9268d935f539c1e85e/Captura.PNG)
 
